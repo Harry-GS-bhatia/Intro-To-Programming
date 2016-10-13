@@ -1,0 +1,48 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    margin: 20px 20vw;
+}
+.index {
+    border: solid 2px black;
+    padding: 20px 5vw;
+}
+.index-list{
+    font-size: 25px;
+    list-style: upper-roman;
+}
+.index-list li ol {
+    list-style: none;
+}
+.main-heading{
+    font-weight: 900;
+    font-size: 40px;
+}
+.part{
+    border: solid 2px black;
+    padding: 20px 5vw;
+    background-color:cornflowerblue;
+}
+.sub-part{
+    border: solid 2px black;
+    padding: 20px 5vw;
+    margin-top: 20px;
+    background-color: white;
+}
+.title{
+    font-weight: 700;
+    font-size: 30px;
+}
+.sub-part h2{
+    font-size: 35px;
+    font-weight: 800;
+}
+.description {
+    font-size: 22px;
+}
+.img{
+    height: 400px;
+    width: 600px;
+    margin: 2vw;
+}
